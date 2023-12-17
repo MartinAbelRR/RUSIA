@@ -19,8 +19,8 @@ export default {
       },
 
       backgroundImage: {        
-        "inicio": "url('../assets/image_1.jpg')",
-        "ultima": "url('../assets/image_8.jpg')",
+        'menu-open': "url('./assets/icon-menu.svg')",
+        'menu-close': "url('./assets/icon-menu-close.svg')",        
       }
     },
   },
