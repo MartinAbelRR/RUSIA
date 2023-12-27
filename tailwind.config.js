@@ -19,8 +19,12 @@ export default {
       },
 
       backgroundImage: {        
-        'menu-open': "url('./assets/icon-menu.svg')",
-        'menu-close': "url('./assets/icon-menu-close.svg')",        
+        'menu-open': "url('./assets/menu.svg')",
+        'menu-close': "url('./assets/close.svg')",        
+      },
+
+      screens: {
+       'mobile': '300px'        
       }
     },
   },
